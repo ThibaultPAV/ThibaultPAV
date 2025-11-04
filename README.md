@@ -1,5 +1,5 @@
-👋 Bonjour, je m'appelle Thibault PAWLISZ.
+Hi, I'm Thibault Pawlisz.
 
-🎓 Actuellement en dernière année à Polytech Lyon, je suis passionné par la Data Science et le développement de modèles d'Intelligence Artificielle. J'adore travailler sur de nouveaux projets en lien avec l'IA et le machine learning.
+I hold a Master’s degree in Applied Mathematics, with a specialization in Artificial Intelligence. I’m passionate about tackling new data-related challenges and building machine learning models to solve them.
 
-💻 Je suis disponible pour toute opportunité de collaboration. N'hésitez pas à consulter mes repositories pour découvrir mes projets.
+Currently based in Düsseldorf, I’m looking for an opportunity in Machine Learning, Deep Learning, or Data Science.
